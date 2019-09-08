@@ -26,4 +26,4 @@ If you need to explore this problem space further, like Senator Ron Wyden [asked
 
 The problems we face in encrypting files to each other are largely due to a lack of vendor willpower. The problems that remain in managing the password, however, are due to a lack of human empathy. In their own way, though, xkcdcrypt and these other projects show there's still much we can do to improve security by centering the design on people.
 
-*Thanks to [JP Aumasson](https://aumasson.jp/).*
+*Thanks to [Tony Arcieri](https://tonyarcieri.com/) and [JP Aumasson](https://aumasson.jp/).*
