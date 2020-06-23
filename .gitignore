@@ -1,6 +1,13 @@
-*.iml
-.idea
+# jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
-.sass-cache
-Gemfile.lock
-_site
+
+# bundler
+.bundle/
+vendor/
+
+# jetbrains
+*.iml
+.idea/
