@@ -212,7 +212,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.4)
     multipart-post (2.1.1)
-    nokogiri (1.11.1)
+    nokogiri (1.11.2)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     octokit (4.20.0)
@@ -264,4 +264,4 @@ DEPENDENCIES
   minima (~> 2.0)
 
 BUNDLED WITH
-   2.2.13
+   2.2.14
