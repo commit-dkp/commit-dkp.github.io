@@ -1,3 +1,3 @@
 # commit-dkp.github.io
 
-Blogging with Github Pages!
+Blogging with GitHub Pages!
