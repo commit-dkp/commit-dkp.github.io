@@ -2,6 +2,10 @@
 title: "xkcdcrypt"
 description: "A proof-of-concept file encryption tool for actual humans"
 ---
+*This post was the foundation for a talk I gave at the [DefCon Crypto & Privacy Village](https://cryptovillage.org/),
+so if you are a more visual learner, then please enjoy 
+[the stream](https://www.youtube.com/watch?v=4WWvvn__wEw&t=11098s).*
+
 I had a problem one day. A problem you might have had, too, and assuredly we all have eventually. I needed to send 
 someone some confidential documents, and it had to be via email. Email, however, is one of the least secure ways of 
 sending anything. It is stored and forwarded by an unknowable number of intermediaries between the sender and 
